@@ -6,7 +6,7 @@ Two case designs are being worked on by @obobobobo and fivedee.
 
 ## Layout
 
-![](https://github.com/calvin-mcd/HP2621/blob/main/Images/stagger.png)
+![](https://github.com/calvin-mcd/HP2621/blob/main/Images/KLE.png)
 
 [Link](http://www.keyboard-layout-editor.com/#/gists/fb3fb2c8d70fd99746aac4b5d0be48f5)
 
