@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "(7.0.0)"
     },
-    "CreationDate": "2024-01-04T19:15:55+01:00"
+    "CreationDate": "2024-01-04T19:34:22+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "HP 2621",
-      "GUID": "48502032-3632-4312-9e6b-696361645f70",
+      "Name": "HP2621",
+      "GUID": "48503236-3231-42e6-9b69-6361645f7063",
       "Revision": "rev?"
     },
     "Size": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "HP 2621-F_Cu.gbr",
+      "Path": "HP2621-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "HP 2621-B_Cu.gbr",
+      "Path": "HP2621-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "HP 2621-F_Paste.gbr",
+      "Path": "HP2621-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "HP 2621-B_Paste.gbr",
+      "Path": "HP2621-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "HP 2621-F_Silkscreen.gbr",
+      "Path": "HP2621-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "HP 2621-B_Silkscreen.gbr",
+      "Path": "HP2621-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "HP 2621-F_Mask.gbr",
+      "Path": "HP2621-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "HP 2621-B_Mask.gbr",
+      "Path": "HP2621-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "HP 2621-Edge_Cuts.gbr",
+      "Path": "HP2621-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
